@@ -1,1 +1,1 @@
-# 2.-HR-Data-Analytics-Dashboard-
+Developed an HR Analytics Dashboard to analyze employee attrition across key demographics, including gender, education field, job role, department, age group, and marital status. This data-driven approach helps identify trends and insights to support strategic HR policy changes aimed at improving employee satisfaction and retention.
